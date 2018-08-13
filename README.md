@@ -1,6 +1,6 @@
 # nim-espeak
 
-[Nim](https://nim-lang.org) [Espeak NG wrapper](https://github.com/espeak-ng/espeak-ng#espeak-ng-text-to-speech), for super easy Voice and Text-To-Speech, works Offline, no API Key required.
+[Nim](https://nim-lang.org) [Espeak NG wrapper](https://github.com/espeak-ng/espeak-ng#espeak-ng-text-to-speech), for super easy Voice and Text-To-Speech, works Offline, no API Keys, No Google.
 
 ![Espeak](https://raw.githubusercontent.com/juancarlospaco/nim-espeak/master/cat-mic.jpg)
 
