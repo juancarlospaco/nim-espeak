@@ -2,7 +2,7 @@
 
 Nim Espeak NG wrapper, for super easy Voice and Text-To-Speech.
 
-![Espeak]()
+![Espeak](https://raw.githubusercontent.com/juancarlospaco/nim-espeak/master/cat-mic.jpg)
 
 
 # Install
