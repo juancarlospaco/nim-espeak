@@ -1,4 +1,4 @@
-import os, osproc, strformat, strutils
+import osproc, strformat, strutils
 
 const version* = staticExec("espeak --version")  ## Espeak version that this Nim module was using when compiled.
 
