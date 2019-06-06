@@ -1,6 +1,8 @@
 import osproc, strformat, strutils
 
-const version* = staticExec("espeak --version")  ## Espeak version that this Nim module was using when compiled.
+
+const espeakVersion* = staticExec("espeak --version")  ## Espeak version that this Nim module was using when compiled.
+
 
 proc espeak*(words: string, pitch: range[0..99] = 50, voice = "en-us",
              amplitude: range[0..200] = 100, speed: int16 = 165, wave_file = "",
